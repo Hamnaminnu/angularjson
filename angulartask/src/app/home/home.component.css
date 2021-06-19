@@ -1,0 +1,36 @@
+#img{
+    background-image: url("../../assets/images/img.jpg") !important;
+    width: 100%;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    height: 100%;
+
+}
+h2{
+    font-size: 6em;
+    font-family: 'Brush Script MT',' Brush Script Std',' cursive' !important;
+    color: rgb(255, 255, 255);
+}
+#select{
+    float: right;
+    margin-right: 5%;
+}
+input{
+    border: none;
+}
+h1{
+    font-size: 2em;
+    font-family: 'Brush Script MTBrush Script Std, cursive' !important;
+    color: rgb(255, 255, 255);
+}
+#div2{
+    border: dotted;
+    border-color: whitesmoke;
+    padding: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 100%;
+}
